@@ -1,0 +1,57 @@
+@charset "utf-8";
+.background {background-color: black; 
+			height:100%; 
+			width: 50%;
+			position: absolute;
+			left: 25%;}
+
+
+ 			.red  {width: 75%;
+        height: 75%;
+        background-color: red;
+        position: absolute;
+        left: 25%;}
+
+	        .gray1 { width: 22%;
+        	height: 30%;
+        	background-color: lightgray; 
+        	position: absolute; 
+        	display: block;}
+
+        	 .gray2 { top: 36%;
+        	 	width: 22%;
+        	height: 39%;
+        	background-color: lightgray; 
+        	position: absolute; 
+        	display: block;}
+
+ 			.gray3 { bottom: 0%;
+        	 	width: 60%;
+        	height: 22%;
+ 			left: 25%;
+        	background-color: lightgray; 
+        	position: absolute; 
+        	display: block;}
+
+        	 .blue { bottom: 0%;
+        	 	width: 22%;
+        	height: 22%;
+        	background-color: blue; 
+        	position: absolute; 
+        	display: block;} 
+
+       .gray4 { bottom: 12%;
+        	 	width: 12%;
+        	height: 10%;
+ 			right: 0%;
+        	background-color: lightgray; 
+        	position: absolute; 
+        	display: block;}
+
+        	  .yellow { bottom: 0%;
+        	 	width: 12%;
+        	height: 10%;
+ 			right: 0%;
+        	background-color: yellow; 
+        	position: absolute; 
+        	display: block;}
